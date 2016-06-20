@@ -1330,7 +1330,7 @@ r1headzappvar.controller('productdetails', function($scope,$state,$cookieStore,$
 
 r1headzappvar.controller('ModalInstanceCtrl', function ($scope, $uibModalInstance, items) {
 
-
+ 
 });
 
 
