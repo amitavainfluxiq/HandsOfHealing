@@ -239,8 +239,26 @@
 
 @media(max-width:1199px) {
 
+    .product_detailblock .prodetail_right{ width: 660px;}
+
+    .product_detailname{ width: 100%; float: none; margin: 40px 0 0 25px;}
+
+    .product_detailqty{ width: 135px; height: 44px; float: left; margin: 40px 0 0 25px;}
+
+    .prodetail_right .addtocartbtn{ margin-top: 40px;}
+
+    .prodescriptiontext_wrapper {
+        margin-top: 40px;
+        width: 100%;
+    }
+
     .product_wrapper .product_topmenu{ width: 610px; margin: 0 auto; margin-bottom: 36px;}
     .product_wrapper .product_topmenu .pro_menudiv{ width: 296px; margin: 2px;}
+
+    .product_gallery_contain{ width: 610px; margin: 0 auto;}
+
+    .product_gallery_contain .product_box2{  width: 296px; margin: 2px;}
+
 
     .product_box_wrapper{ width: 610px; margin: 0 auto;}
 
@@ -531,6 +549,10 @@
 }
 
 @media(max-width:991px) {
+
+    .product_detailblock .prodetail_right {
+        width: 580px;
+    }
 .hometextblock { width:90%;}
 .hometextblock .col-md-4{ padding:25px 0!important; width:100%; }
 
@@ -545,6 +567,18 @@
 
 
 }
+
+@media(max-width:980px) {
+.product_detailblock .prodetail_right {
+    width: 100%; float: none;
+}
+
+    .product_detailblock .prodetail_left {
+        float: none; margin: 0 auto; margin-bottom: 25px;
+        width: 296px;
+    }
+}
+
 
 @media(max-width:580px) {
 
@@ -572,6 +606,11 @@
 .product_box_wrapper .product_box{  width: 230px; margin: 2px;}
     .product_box_wrapper .product_box .proimg{ width: 227px;}
 
+
+    .product_gallery_contain{ width: 480px; margin: 0 auto;}
+
+    .product_gallery_contain .product_box2{  width: 230px; margin: 2px;}
+    .product_gallery_contain .product_box2 .proimg{ width: 227px;}
 }
 
 
@@ -599,6 +638,11 @@
     .login_wrapper .form-control3{width:280px;}
 
     .checkbox_con{ width: 270px; margin: 10px auto;}
+
+
+    .product_detailqty{ width: 135px; height: 44px; float: none; margin: 40px 0 0 25px;}
+
+    .prodetail_right .addtocartbtn{ float: none; margin:40px 0 0 25px; display: block; }
 }
 
 
@@ -612,5 +656,11 @@
 
     .product_box_wrapper .product_box{ width: 278px; margin: 2px auto; float: none;}
     .product_box_wrapper .product_box .proimg{ width: 276px;}
+
+
+    .product_gallery_contain{ width: 280px; margin: 0 auto;}
+
+    .product_gallery_contain .product_box2{ width: 278px; margin: 2px auto; float: none;}
+    .product_gallery_contain .product_box2 .proimg{ width: 276px;}
 
 }
