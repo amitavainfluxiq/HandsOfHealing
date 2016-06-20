@@ -135,6 +135,11 @@
 /*---treatmentnservices--*/
 .treatmentnservicesblock1{padding-top: 36px; padding-bottom: 30px;}
 .treatmentnservicesblock1left{float: left;}
+.treatmentnservicesblock1left{background: url(../images/treatmentleftimage2.jpg) no-repeat; background-position: bottom;}
+.treatmentnservicesblock1wrapper {display: table;}
+.treatmentnservicesblock1left {float: none; display: table-cell;}
+.treatmentnservicesblock1right {float: none; display: table-cell;}
+
 .treatmentblock1wrapper {
     padding: 15px;
     border: 1px solid #c9c9c9;
@@ -170,10 +175,10 @@
 
 .block2left,.block3left, .block4left, .block5left, .block6left, .block7left{margin-top: 19px;}
 .block6left img, .block7left img{max-width: 100%;}
-.block2left h2 {text-align: center; font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px; color: #fff; background-color: #08bcd3; margin-top: 0px; margin-bottom: 0px; max-width: 90%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
-.block3left h2 {text-align: center; font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px; color: #fff; background-color: #a4ae3e; margin-top: 0px; margin-bottom: 0px; max-width: 90%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
-.block4left h2 { text-align: center; font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px; color: #fff; background-color: #9b8375; margin-top: 0px; margin-bottom: 0px;  max-width: 90%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
-.block5left h2 {text-align: center;font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px;  color: #fff; background-color: #e5c9c3; margin-top: 0px; margin-bottom: 0px; max-width: 90%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
+.block2left h2 {text-align: center; font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px; color: #fff; background-color: #08bcd3; margin-top: 0px; margin-bottom: 0px; max-width: 87%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
+.block3left h2 {text-align: center; font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px; color: #fff; background-color: #a4ae3e; margin-top: 0px; margin-bottom: 0px; max-width: 87%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
+.block4left h2 { text-align: center; font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px; color: #fff; background-color: #9b8375; margin-top: 0px; margin-bottom: 0px;  max-width: 87%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
+.block5left h2 {text-align: center;font-family: 'Raleway-ExtraBold'; font-size: 24px; line-height: 24px;  color: #fff; background-color: #e5c9c3; margin-top: 0px; margin-bottom: 0px; max-width: 87%; margin-left: auto; margin-right: auto; padding-top: 19px; padding-bottom: 19px; border: none;}
 
 
 .block1right img{max-width: 100%;}
@@ -192,3 +197,6 @@
 .block2right .textblock img{max-width: 100%;}
 .block2right .textblock:first-of-type {padding-left: 0px !important;}
 .block2right .textblock:last-of-type {padding-right: 0px !important;}
+
+
+
