@@ -600,7 +600,7 @@ textarea:focus, input:focus , select:focus, option:focus{
 .product_detailqty .proqtyinput{ width: 59px; float: left; background: #ececec; text-align: center; font-size: 18px; color: #6f6e6e; font-family:'MyriadPro-Regular'; height: 44px; border: none;}
 
 .proqty_arrowbtn{ width: 24px; float: left;}
-
+ 
 .prodetail_right .addtocartbtn{ width: 146px; height: 44px; float: left; margin-left: 30px; margin-top: 60px;   background: #ce9d09 url(../images/pro_cartiocn.png) no-repeat 10px center ;
 
     font-family:'OpenSans-Semibold'; text-transform: uppercase; color: #fff!important; line-height: 44px; padding-left: 52px; font-size: 18px;
